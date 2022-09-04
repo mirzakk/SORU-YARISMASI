@@ -2,7 +2,7 @@
 
 @color 2f
 
-msg * Bu Oyun MIRZA KIRAC Tarafindan Uretilmistir !!!
+msg * Bu Oyun MIRZA Tarafindan Uretilmistir !!!
 
 PAUSE
 
